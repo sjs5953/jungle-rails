@@ -1,8 +1,11 @@
 class OrdersController < ApplicationController
+  # def show
+  #   @order = Order.find(params[:id])
+  #   @line_items = @order.line_items.includes(:product)
+  # end
 
   def show
     @order = Order.find(params[:id])
-    
     line_items = LineItem.where('order_id': @order.id)
     line = {}
     line_items.each do |item|
