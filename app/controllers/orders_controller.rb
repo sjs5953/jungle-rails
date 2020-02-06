@@ -18,7 +18,6 @@ class OrdersController < ApplicationController
 
     @products = products
 
-    
   end
 
   def create
