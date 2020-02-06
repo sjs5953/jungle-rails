@@ -2,17 +2,19 @@
 <section class="cart-show">
 
   <header class="page-header">
+
     <h1>My Cart</h1>
+
   </header>
 
     <p> Number of items: <%= enhanced_cart.size  %> </p>
 
-      <% if enhanced_cart.size > 0  %>
+      <% if enhanced_cart.size > 0 %>
        <%= render "show_content" %>
       <% else %>
         <h3 class="alert alert-warning">
-        Your Cart is empty! <%= link_to 'Back', :products  %>
-        </h3>  
+        Your Cart is empty! <%= link_to 'Back', :products %>
+        </h3>
       <% end %>
 
 </section>
