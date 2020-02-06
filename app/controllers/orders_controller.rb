@@ -15,9 +15,7 @@ class OrdersController < ApplicationController
       product = Product.find_by(id:item[:product_id])
       products.push(product)
     end
-
     @products = products
-
   end
 
   def create
