@@ -25,3 +25,32 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+* capybara
+* poltergeist
+* database_cleaner
+* faker
+
+## Screenshots of different views
+Root Page
+!["Root Page"](https://github.com/sjs5953/tweeter/blob/master/docs/Desktop:tablet%20mode.png?raw=true)
+
+Cart Page
+!["Cart Page"](https://github.com/sjs5953/tweeter/blob/master/docs/errormessage2.png?raw=true)
+
+Checkout Pop-up
+!["Checkout Pop-up"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+
+Order detail Page
+!["Order detail Page"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+
+Admin Products
+!["Admin Products"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+
+Add New Product as Admin
+!["Add New Product as Admin"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+
+Admin Categories
+!["Admin Categories"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+
+Add New Category as Admin
+!["Add New Category as Admin"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
