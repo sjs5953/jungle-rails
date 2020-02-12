@@ -32,25 +32,25 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots of different views
 Root Page
-!["Root Page"](https://github.com/sjs5953/tweeter/blob/master/docs/Desktop:tablet%20mode.png?raw=true)
+!["Root Page"](https://github.com/sjs5953/jungle-rails/blob/master/images/Root%20Page.png?raw=true)
 
 Cart Page
-!["Cart Page"](https://github.com/sjs5953/tweeter/blob/master/docs/errormessage2.png?raw=true)
+!["Cart Page"](https://github.com/sjs5953/jungle-rails/blob/master/images/cart%20page.png?raw=true)
 
 Checkout Pop-up
-!["Checkout Pop-up"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+!["Checkout Pop-up"](https://github.com/sjs5953/jungle-rails/blob/master/images/Payment.png?raw=true)
 
 Order detail Page
-!["Order detail Page"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+!["Order detail Page"](https://github.com/sjs5953/jungle-rails/blob/master/images/Order%20Summary.png?raw=true)
 
 Admin Products
-!["Admin Products"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+!["Admin Products"](https://github.com/sjs5953/jungle-rails/blob/master/images/Admin%20Products.png?raw=true)
 
 Add New Product as Admin
-!["Add New Product as Admin"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+!["Add New Product as Admin"](https://github.com/sjs5953/jungle-rails/blob/master/images/New%20product.png?raw=true)
 
 Admin Categories
-!["Admin Categories"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+!["Admin Categories"](https://github.com/sjs5953/jungle-rails/blob/master/images/Admin%20categories.png?raw=true)
 
 Add New Category as Admin
-!["Add New Category as Admin"](https://github.com/sjs5953/tweeter/blob/master/docs/arrow%20up.png?raw=true)
+!["Add New Category as Admin"](https://github.com/sjs5953/jungle-rails/blob/master/images/new%20category.png?raw=true)
